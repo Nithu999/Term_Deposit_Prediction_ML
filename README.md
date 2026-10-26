@@ -2,7 +2,7 @@ Term Deposit Prediction
 
 🚀 Proud to Share My Term Deposit Prediction Project! 🚀
 
-As part of the Fundamentals of Data Mining module at SLIIT, I'm developed a machine learning-based system to predict term deposit subscriptions. This project aimed to help banks optimize marketing strategies by leveraging customer data for personalized targeting.
+I'm developed a machine learning-based system to predict term deposit subscriptions. This project aimed to help banks optimize marketing strategies by leveraging customer data for personalized targeting.
 
 🔹 Key Features:
 
